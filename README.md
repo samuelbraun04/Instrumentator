@@ -4,7 +4,7 @@ Instrumentator is a Python-based project that creates trap beats and uploads the
 
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://cdn-icons-png.flaticon.com/512/0/375.png)](https://sndup.net/3rrc/)
+[![IMAGE ALT TEXT HERE](https://png.pngitem.com/pimgs/s/180-1806347_play-button-download-play-button-png-transparent-png.png)](https://sndup.net/3rrc/)
 
 ## Installation
 
