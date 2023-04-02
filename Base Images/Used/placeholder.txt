@@ -1,0 +1,1 @@
+Used images go here. Once there are no more used images, all used images are put back in the unused images directory by default.
