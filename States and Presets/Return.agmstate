@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AAG_STATE Name="Return" Ver="3.6.0" Author="Ample Sound" Category="Rock"
+           Type="Strum" Lib="Strum" Rating="0">
+  <Articulation Value="Sus"/>
+  <Position Value="0"/>
+  <Chord-Path Value="C:\Users\ample\Documents\Ample Sound\Chord Banks"/>
+  <Chords Author="Ample Sound" Category="Pop" Key="E" Path="C:\Users\ample\Documents\Ample Sound\Chord Banks"
+          Name="E-Return-1">
+    <Chord ID="1" Root="B" Type="sus4" Pos="2">
+      <String ID="6" Fret="7"/>
+      <String ID="5" Fret="9"/>
+      <String ID="4" Fret="9"/>
+      <String ID="3" Fret="9"/>
+      <String ID="2" Fret="7"/>
+      <String ID="1" Fret="7"/>
+    </Chord>
+    <Chord ID="2" Root="F#" Type="7add11" Pos="2">
+      <String ID="6" Fret="2"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="3"/>
+      <String ID="2" Fret="2"/>
+      <String ID="1" Fret="6"/>
+    </Chord>
+    <Chord ID="3" Root="E" Type="Maj" Pos="2">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="-1"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="4"/>
+      <String ID="2" Fret="5"/>
+      <String ID="1" Fret="4"/>
+    </Chord>
+    <Chord ID="4" Root="B" Type="7add11" Pos="2">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="9"/>
+      <String ID="4" Fret="9"/>
+      <String ID="3" Fret="8"/>
+      <String ID="2" Fret="5"/>
+      <String ID="1" Fret="5"/>
+    </Chord>
+    <Chord ID="5" Root="E" Type="sus2" Pos="2">
+      <String ID="6" Fret="0"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="4"/>
+      <String ID="2" Fret="5"/>
+      <String ID="1" Fret="2"/>
+    </Chord>
+    <Chord ID="6" Root="E" Type="sus4" Pos="2">
+      <String ID="6" Fret="0"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="4"/>
+      <String ID="2" Fret="5"/>
+      <String ID="1" Fret="5"/>
+    </Chord>
+    <Chord ID="7" Root="A" Type="sus2" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="0"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="8" Root="C#" Type="m7" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="4"/>
+      <String ID="4" Fret="6"/>
+      <String ID="3" Fret="6"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="9" Root="B" Type="sus4" Pos="2">
+      <String ID="6" Fret="7"/>
+      <String ID="5" Fret="9"/>
+      <String ID="4" Fret="9"/>
+      <String ID="3" Fret="9"/>
+      <String ID="2" Fret="7"/>
+      <String ID="1" Fret="7"/>
+    </Chord>
+    <Chord ID="10" Root="A" Type="sus4" Pos="2">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="0"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="5"/>
+    </Chord>
+    <Chord ID="11" Root="A" Type="add9" Pos="3">
+      <String ID="6" Fret="5"/>
+      <String ID="5" Fret="7"/>
+      <String ID="4" Fret="7"/>
+      <String ID="3" Fret="6"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="12" Root="A" Type="Maj" Pos="2">
+      <String ID="6" Fret="5"/>
+      <String ID="5" Fret="7"/>
+      <String ID="4" Fret="7"/>
+      <String ID="3" Fret="6"/>
+      <String ID="2" Fret="5"/>
+      <String ID="1" Fret="5"/>
+    </Chord>
+    <Chord ID="13" Root="C" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="14" Root="A" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="0"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="2"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="15" Root="D" Type="min" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="-1"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="16" Root="F" Type="min" Pos="1">
+      <String ID="6" Fret="1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="1"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="17" Root="E" Type="min" Pos="1">
+      <String ID="6" Fret="0"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="18" Root="F" Type="Maj" Pos="1">
+      <String ID="6" Fret="1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="19" Root="D" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="-1"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="2"/>
+    </Chord>
+    <Chord ID="20" Root="G" Type="Maj" Pos="1">
+      <String ID="6" Fret="3"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="3"/>
+    </Chord>
+    <Chord ID="21" Root="E" Type="Maj" Pos="1">
+      <String ID="6" Fret="0"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="1"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="22" Root="A" Type="min" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="0"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="23" Root="A#" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="1"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="3"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="24" Root="G" Type="7" Pos="1">
+      <String ID="6" Fret="3"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+  </Chords>
+  <Pattern-Path Value="C:\Users\ample\Documents\Ample Sound\Strum Patterns"/>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="130" ID="1" Path="C:\Users\ample\Documents\Ample Sound\Strum Patterns"
+           Name="Default1">
+    <Note Note="72" Velocity="100" Begin="1" End="2"/>
+    <Note Note="74" Velocity="80" Begin="3" End="3"/>
+    <Note Note="76" Velocity="60" Begin="4" End="5"/>
+    <Note Note="76" Velocity="70" Begin="6" End="7"/>
+    <Note Note="76" Velocity="60" Begin="8" End="8"/>
+    <Note Note="74" Velocity="40" Begin="11" End="11"/>
+    <Note Note="76" Velocity="90" Begin="12" End="12"/>
+    <Note Note="74" Velocity="50" Begin="15" End="15"/>
+    <Note Note="76" Velocity="60" Begin="16" End="16"/>
+    <Note Note="72" Velocity="70" Begin="9" End="10"/>
+    <Note Note="74" Velocity="50" Begin="13" End="13"/>
+    <Note Note="76" Velocity="40" Begin="14" End="14"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="2" Path="C:\Users\ample\Documents\Ample Sound\Strum Patterns"
+           Name="Default2">
+    <Note Note="72" Velocity="100" Begin="1" End="2"/>
+    <Note Note="74" Velocity="60" Begin="7" End="7"/>
+    <Note Note="76" Velocity="90" Begin="8" End="8"/>
+    <Note Note="78" Velocity="60" Begin="9" End="9"/>
+    <Note Note="76" Velocity="70" Begin="16" End="16"/>
+    <Note Note="74" Velocity="40" Begin="3" End="3"/>
+    <Note Note="76" Velocity="40" Begin="4" End="4"/>
+    <Note Note="72" Velocity="90" Begin="5" End="5"/>
+    <Note Note="76" Velocity="30" Begin="6" End="6"/>
+    <Note Note="76" Velocity="80" Begin="10" End="10"/>
+    <Note Note="74" Velocity="80" Begin="11" End="11"/>
+    <Note Note="76" Velocity="50" Begin="12" End="12"/>
+    <Note Note="72" Velocity="80" Begin="13" End="14"/>
+    <Note Note="74" Velocity="60" Begin="15" End="15"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="3" Path="C:\Users\ample\Documents\Ample Sound\Strum Patterns"
+           Name="Default3">
+    <Note Note="72" Velocity="55" Begin="1" End="4"/>
+    <Note Note="77" Velocity="100" Begin="5" End="6"/>
+    <Note Note="76" Velocity="80" Begin="7" End="8"/>
+    <Note Note="74" Velocity="60" Begin="9" End="9"/>
+    <Note Note="76" Velocity="60" Begin="11" End="12"/>
+    <Note Note="77" Velocity="60" Begin="13" End="14"/>
+    <Note Note="76" Velocity="90" Begin="15" End="16"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="4" Path="C:\Users\ample\Documents\Ample Sound\Strum Patterns"
+           Name="Default4">
+    <Note Note="72" Velocity="90" Begin="1" End="2"/>
+    <Note Note="74" Velocity="30" Begin="3" End="3"/>
+    <Note Note="76" Velocity="60" Begin="4" End="4"/>
+    <Note Note="72" Velocity="60" Begin="5" End="6"/>
+    <Note Note="76" Velocity="70" Begin="7" End="8"/>
+    <Note Note="79" Velocity="30" Begin="9" End="9"/>
+    <Note Note="83" Velocity="40" Begin="10" End="10"/>
+    <Note Note="81" Velocity="50" Begin="11" End="11"/>
+    <Note Note="76" Velocity="60" Begin="12" End="12"/>
+    <Note Note="72" Velocity="70" Begin="13" End="13"/>
+    <Note Note="81" Velocity="40" Begin="14" End="14"/>
+    <Note Note="76" Velocity="80" Begin="15" End="16"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="5" Path="C:\Users\ample\Documents\Ample Sound\Strum Patterns"
+           Name="Default5">
+    <Note Note="72" Velocity="80" Begin="1" End="1"/>
+    <Note Note="78" Velocity="70" Begin="2" End="2"/>
+    <Note Note="72" Velocity="60" Begin="3" End="4"/>
+    <Note Note="72" Velocity="100" Begin="5" End="5"/>
+    <Note Note="81" Velocity="60" Begin="6" End="6"/>
+    <Note Note="83" Velocity="60" Begin="7" End="7"/>
+    <Note Note="76" Velocity="90" Begin="8" End="8"/>
+    <Note Note="72" Velocity="60" Begin="9" End="9"/>
+    <Note Note="83" Velocity="70" Begin="10" End="10"/>
+    <Note Note="72" Velocity="70" Begin="11" End="12"/>
+    <Note Note="81" Velocity="60" Begin="14" End="14"/>
+    <Note Note="83" Velocity="60" Begin="15" End="15"/>
+    <Note Note="76" Velocity="80" Begin="16" End="16"/>
+    <Note Note="72" Velocity="100" Begin="13" End="13"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="6" Path="C:\Users\ample\Documents\Ample Sound\Strum Patterns"
+           Name="Default6">
+    <Note Note="79" Velocity="90" Begin="1" End="1"/>
+    <Note Note="79" Velocity="50" Begin="2" End="2"/>
+    <Note Note="79" Velocity="30" Begin="3" End="3"/>
+    <Note Note="79" Velocity="90" Begin="4" End="4"/>
+    <Note Note="79" Velocity="30" Begin="5" End="5"/>
+    <Note Note="79" Velocity="40" Begin="6" End="6"/>
+    <Note Note="79" Velocity="90" Begin="7" End="7"/>
+    <Note Note="79" Velocity="50" Begin="8" End="8"/>
+    <Note Note="79" Velocity="30" Begin="9" End="9"/>
+    <Note Note="79" Velocity="90" Begin="10" End="10"/>
+    <Note Note="79" Velocity="30" Begin="11" End="11"/>
+    <Note Note="79" Velocity="40" Begin="12" End="12"/>
+    <Note Note="79" Velocity="90" Begin="13" End="13"/>
+    <Note Note="81" Velocity="90" Begin="15" End="15"/>
+    <Note Note="83" Velocity="90" Begin="16" End="16"/>
+    <Note Note="77" Velocity="90" Begin="14" End="14"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="7" Path="C:\Users\ample\Documents\Ample Sound\Strum Patterns"
+           Name="Default7">
+    <Note Note="72" Velocity="80" Begin="1" End="3"/>
+    <Note Note="76" Velocity="50" Begin="4" End="4"/>
+    <Note Note="74" Velocity="100" Begin="5" End="5"/>
+    <Note Note="76" Velocity="30" Begin="6" End="6"/>
+    <Note Note="74" Velocity="60" Begin="7" End="7"/>
+    <Note Note="76" Velocity="70" Begin="8" End="8"/>
+    <Note Note="69" Velocity="80" Begin="9" End="10"/>
+    <Note Note="67" Velocity="70" Begin="9" End="10"/>
+    <Note Note="71" Velocity="90" Begin="11" End="12"/>
+    <Note Note="67" Velocity="60" Begin="14" End="14"/>
+    <Note Note="69" Velocity="60" Begin="15" End="15"/>
+    <Note Note="71" Velocity="80" Begin="16" End="16"/>
+    <Note Note="64" Velocity="80" Begin="13" End="13"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="8" Path="C:\Users\ample\Documents\Ample Sound\Strum Patterns"
+           Name="Default8">
+    <Note Note="64" Velocity="90" Begin="1" End="1"/>
+    <Note Note="67" Velocity="60" Begin="2" End="2"/>
+    <Note Note="69" Velocity="90" Begin="3" End="3"/>
+    <Note Note="67" Velocity="40" Begin="4" End="4"/>
+    <Note Note="71" Velocity="90" Begin="5" End="5"/>
+    <Note Note="67" Velocity="50" Begin="6" End="6"/>
+    <Note Note="69" Velocity="70" Begin="7" End="7"/>
+    <Note Note="67" Velocity="40" Begin="8" End="8"/>
+    <Note Note="67" Velocity="40" Begin="10" End="10"/>
+    <Note Note="69" Velocity="80" Begin="11" End="12"/>
+    <Note Note="71" Velocity="100" Begin="13" End="13"/>
+    <Note Note="67" Velocity="60" Begin="14" End="14"/>
+    <Note Note="69" Velocity="90" Begin="15" End="15"/>
+    <Note Note="71" Velocity="80" Begin="16" End="16"/>
+    <Note Note="77" Velocity="30" Begin="9" End="9"/>
+  </Pattern>
+  <Riff-Path Value="C:\Users\ample\Documents\Ample Sound\Riffs\Guitar\AG"/>
+  <Riff Author="Ample Sound" Category="Rock" Measures="8" Time-Signature="4/4"
+        Quantize="1/16" Tempo="115" Key="E" Type="Strum" Chord="Esus2"
+        Rating="0" Path="C:\Users\ample\Documents\Ample Sound\Riffs\Guitar\AG"
+        Name="Return">
+    <String ID="6">
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="33" End="34" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="37" End="37" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="40" End="40" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="45" End="46" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="49" End="50" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="53" End="54" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="60" End="60" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="97" End="99" Articulation="Sus"
+            Fret="5" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="101" End="101"
+            Articulation="Sus" Fret="5" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="104" End="104"
+            Articulation="Sus" Fret="5" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="109" End="110"
+            Articulation="Sus" Fret="5" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="113" End="113"
+            Articulation="Sus" Fret="5" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="115" End="115"
+            Articulation="Sus" Fret="5" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+    </String>
+    <String ID="5">
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="1" End="2" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="5" End="5" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="11" End="11" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="13" End="14" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="17" End="18" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="21" End="21" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="24" End="24" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="27" End="27" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="29" End="30" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="120" End="121"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="117" End="118"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="33" End="34" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="37" End="37" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="40" End="40" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="43" End="43" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="45" End="46" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="49" End="50" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="53" End="54" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="59" End="59" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="60" End="60" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="63" End="63" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="65" End="66" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="69" End="69" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="75" End="75" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="77" End="78" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="81" End="82" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="85" End="85" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="88" End="88" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="91" End="91" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="93" End="94" Articulation="Sus"
+            Fret="4" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="97" End="99" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="101" End="101"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="104" End="104"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="107" End="107"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="109" End="110"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="113" End="113"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="115" End="115"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="119" End="119"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="123" End="123"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+    </String>
+    <String ID="4">
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="1" End="2" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="3" End="3" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="5" End="5" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="6" End="6" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="7" End="7" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="8" End="8" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="10" End="10" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="11" End="11" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="13" End="14" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="15" End="15" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="17" End="18" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="19" End="19" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="30" Off-Velocity="65" Begin="20" End="20" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="21" End="21" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="22" End="22" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="23" End="23" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="24" End="24" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="26" End="26" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="27" End="27" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="29" End="30" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="31" End="31" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="128" End="128"
+            Articulation="PM" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="127" End="127"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="116" End="116"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="117" End="118"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="33" End="34" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="35" End="35" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="37" End="37" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="38" End="38" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="39" End="39" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="40" End="40" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="42" End="42" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="43" End="43" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="45" End="46" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="47" End="47" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="49" End="50" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="51" End="51" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="53" End="54" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="55" End="55" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="58" End="58" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="59" End="59" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="60" End="60" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="62" End="62" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="63" End="63" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="65" End="66" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="67" End="67" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="69" End="69" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="70" End="70" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="71" End="71" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="72" End="72" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="74" End="74" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="75" End="75" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="77" End="78" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="79" End="79" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="81" End="82" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="83" End="83" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="30" Off-Velocity="65" Begin="84" End="84" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="85" End="85" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="86" End="86" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="87" End="87" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="88" End="88" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="90" End="90" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="91" End="91" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="93" End="94" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="95" End="95" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="97" End="99" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="101" End="101"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="102" End="102"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="103" End="103"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="104" End="104"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="106" End="106"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="107" End="107"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="109" End="110"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="111" End="111"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="113" End="113"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="115" End="115"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="119" End="119"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="120" End="121"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="122" End="122"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="123" End="123"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="124" End="124"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="126" End="126"
+            Articulation="Sus" Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+    </String>
+    <String ID="3">
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="1" End="2" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="3" End="3" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="4" End="4" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="5" End="5" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="6" End="6" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="7" End="7" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="8" End="8" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="10" End="10" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="11" End="11" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="12" End="12" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="13" End="14" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="15" End="15" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="16" End="16" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="17" End="18" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="19" End="19" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="30" Off-Velocity="65" Begin="20" End="20" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="21" End="21" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="22" End="22" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="23" End="23" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="24" End="24" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="26" End="26" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="27" End="27" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="28" End="28" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="29" End="30" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="31" End="31" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="32" End="32" Articulation="Sus"
+            Fret="9" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="128" End="128"
+            Articulation="PM" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="127" End="127"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="33" End="34" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="35" End="35" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="36" End="36" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="37" End="37" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="38" End="38" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="39" End="39" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="40" End="40" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="42" End="42" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="43" End="43" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="44" End="44" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="45" End="46" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="47" End="47" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="48" End="48" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="49" End="50" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="51" End="51" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="52" End="52" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="53" End="54" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="55" End="55" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="56" End="56" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="58" End="58" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="59" End="59" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="60" End="60" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="62" End="62" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="63" End="63" Articulation="Sus"
+            Fret="8" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="65" End="66" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="67" End="67" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="68" End="68" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="69" End="69" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="70" End="70" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="71" End="71" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="72" End="72" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="74" End="74" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="75" End="75" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="76" End="76" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="77" End="78" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="79" End="79" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="80" End="80" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="81" End="82" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="83" End="83" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="30" Off-Velocity="65" Begin="84" End="84" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="85" End="85" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="86" End="86" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="87" End="87" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="88" End="88" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="90" End="90" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="91" End="91" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="92" End="92" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="93" End="94" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="95" End="95" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="96" End="96" Articulation="PM"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="97" End="99" Articulation="Sus"
+            Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="100" End="100"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="101" End="101"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="102" End="102"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="103" End="103"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="104" End="104"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="106" End="106"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="107" End="107"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="108" End="108"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="109" End="110"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="111" End="111"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="112" End="112"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="113" End="113"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="115" End="115"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="116" End="116"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="117" End="118"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="119" End="119"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="120" End="121"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="122" End="122"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="123" End="123"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="124" End="124"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="126" End="126"
+            Articulation="Sus" Fret="6" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+    </String>
+    <String ID="2">
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="1" End="2" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="3" End="3" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="4" End="4" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="5" End="5" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="6" End="6" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="7" End="7" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="8" End="8" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="10" End="10" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="11" End="11" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="12" End="12" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="13" End="14" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="15" End="15" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="16" End="16" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="17" End="18" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="19" End="19" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="30" Off-Velocity="65" Begin="20" End="20" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="21" End="21" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="22" End="22" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="23" End="23" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="24" End="24" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="26" End="26" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="27" End="27" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="28" End="28" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="29" End="30" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="31" End="31" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="32" End="32" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="128" End="128"
+            Articulation="PM" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="127" End="127"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="33" End="34" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="35" End="35" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="36" End="36" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="38" End="38" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="39" End="39" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="40" End="40" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="42" End="42" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="43" End="43" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="44" End="44" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="47" End="47" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="48" End="48" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="51" End="51" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="52" End="52" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="55" End="55" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="56" End="56" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="58" End="58" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="59" End="59" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="60" End="60" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="62" End="62" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="63" End="63" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="65" End="66" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="67" End="67" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="68" End="68" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="69" End="69" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="70" End="70" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="71" End="71" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="72" End="72" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="74" End="74" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="75" End="75" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="76" End="76" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="77" End="78" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="79" End="79" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="80" End="80" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="81" End="82" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="83" End="83" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="30" Off-Velocity="65" Begin="84" End="84" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="85" End="85" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="86" End="86" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="87" End="87" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="88" End="88" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="90" End="90" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="91" End="91" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="92" End="92" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="93" End="94" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="95" End="95" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="96" End="96" Articulation="PM"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="97" End="99" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="100" End="100"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="20" Off-Velocity="65" Begin="102" End="102"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="103" End="103"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="104" End="104"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="106" End="106"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="107" End="107"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="108" End="108"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="111" End="111"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="112" End="112"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="115" End="115"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="116" End="116"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="117" End="118"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="119" End="119"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="120" End="121"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="122" End="122"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="70" Off-Velocity="65" Begin="123" End="123"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="124" End="124"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="126" End="126"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+    </String>
+    <String ID="1">
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="1" End="2" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="4" End="4" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="8" End="8" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="10" End="10" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="12" End="12" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="16" End="16" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="24" End="24" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="26" End="26" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="28" End="28" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="32" End="32" Articulation="Sus"
+            Fret="7" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="128" End="128"
+            Articulation="PM" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="97" End="99" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="33" End="34" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="36" End="36" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="40" End="40" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="42" End="42" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="44" End="44" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="48" End="48" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="40" Off-Velocity="65" Begin="52" End="52" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="60" Off-Velocity="65" Begin="56" End="56" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="58" End="58" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="60" End="60" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="62" End="62" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="65" End="66" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="68" End="68" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="72" End="72" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="74" End="74" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="76" End="76" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="80" End="80" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="81" End="82" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="88" End="88" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="90" End="90" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="92" End="92" Articulation="Sus"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="96" End="96" Articulation="PM"
+            Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend" Vibrato-Percentage="0"
+            Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="100" End="100"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="104" End="104"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="106" End="106"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="108" End="108"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="50" Off-Velocity="65" Begin="112" End="112"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="115" End="115"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="117" End="118"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="90" Off-Velocity="65" Begin="120" End="121"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="122" End="122"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="80" Off-Velocity="65" Begin="124" End="124"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+      <Note FX="0" Velocity="100" Off-Velocity="65" Begin="126" End="126"
+            Articulation="Sus" Fret="0" Legato="No Legato" ExpPos="50" Bend-Type="No Bend"
+            Vibrato-Percentage="0" Duration-Percentage="100"/>
+    </String>
+    <Note FX="1" Velocity="30" Begin="61" End="61" Articulation="Downstroke Noise 1"/>
+    <Note FX="2" Direction="Down" Velocity="100" Strum-Time="12" Begin="1"
+          End="2" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="40" Strum-Time="12" Begin="3"
+          End="3" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="12" Begin="4"
+          End="4" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="12" Begin="5"
+          End="5" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="20" Strum-Time="12" Begin="6"
+          End="6" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="12" Begin="7"
+          End="7" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="90" Strum-Time="12" Begin="8"
+          End="8" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="12" Begin="9"
+          End="9" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="12" Begin="10"
+          End="10" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="12" Begin="11"
+          End="11" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="12" Begin="12"
+          End="12" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="12" Begin="13"
+          End="14" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="12" Begin="15"
+          End="15" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="12" Begin="16"
+          End="16" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="12" Begin="17"
+          End="18" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="40" Strum-Time="12" Begin="19"
+          End="19" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="30" Strum-Time="12" Begin="20"
+          End="20" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="12" Begin="21"
+          End="21" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="20" Strum-Time="12" Begin="22"
+          End="22" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="12" Begin="23"
+          End="23" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="100" Strum-Time="12" Begin="24"
+          End="24" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="70" Strum-Time="12" Begin="25"
+          End="25" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="12" Begin="26"
+          End="26" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="12" Begin="27"
+          End="27" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="12" Begin="28"
+          End="28" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="12" Begin="29"
+          End="30" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="12" Begin="31"
+          End="31" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="12" Begin="32"
+          End="32" Articulation="Sus" Legato="No Legato" Chord-Root="E"
+          Chord-Type="sus2" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="128"
+          End="128" Articulation="PM" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="127"
+          End="127" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="100" Strum-Time="16" Begin="33"
+          End="34" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="40" Strum-Time="16" Begin="35"
+          End="35" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="36"
+          End="36" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="16" Begin="37"
+          End="37" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="20" Strum-Time="16" Begin="38"
+          End="38" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="39"
+          End="39" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="100" Strum-Time="16" Begin="40"
+          End="40" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="41"
+          End="41" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="42"
+          End="42" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="43"
+          End="43" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="44"
+          End="44" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="45"
+          End="46" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="47"
+          End="47" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="48"
+          End="48" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="16" Begin="49"
+          End="50" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="20" Strum-Time="16" Begin="51"
+          End="51" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="40" Strum-Time="16" Begin="52"
+          End="52" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="53"
+          End="54" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="50" Strum-Time="16" Begin="55"
+          End="55" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="60" Strum-Time="16" Begin="56"
+          End="56" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="70" Strum-Time="16" Begin="57"
+          End="57" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="58"
+          End="58" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="59"
+          End="59" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="100" Strum-Time="16" Begin="60"
+          End="60" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="62"
+          End="62" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="16" Begin="63"
+          End="63" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="64"
+          End="64" Articulation="Sus" Legato="No Legato" Chord-Root="B"
+          Chord-Type="sus4" Chord-Pos="2"/>
+    <Note FX="2" Direction="Down" Velocity="100" Strum-Time="16" Begin="65"
+          End="66" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="40" Strum-Time="16" Begin="67"
+          End="67" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="68"
+          End="68" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="16" Begin="69"
+          End="69" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="20" Strum-Time="16" Begin="70"
+          End="70" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="71"
+          End="71" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="90" Strum-Time="16" Begin="72"
+          End="72" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="73"
+          End="73" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="74"
+          End="74" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="75"
+          End="75" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="76"
+          End="76" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="77"
+          End="78" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="79"
+          End="79" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="80"
+          End="80" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="100" Strum-Time="16" Begin="81"
+          End="82" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="40" Strum-Time="16" Begin="83"
+          End="83" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="30" Strum-Time="16" Begin="84"
+          End="84" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="16" Begin="85"
+          End="85" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="20" Strum-Time="16" Begin="86"
+          End="86" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="87"
+          End="87" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="100" Strum-Time="16" Begin="88"
+          End="88" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="70" Strum-Time="16" Begin="89"
+          End="89" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="90"
+          End="90" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="91"
+          End="91" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="92"
+          End="92" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="93"
+          End="94" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="95"
+          End="95" Articulation="Sus" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="96"
+          End="96" Articulation="PM" Legato="No Legato" Chord-Root="C#"
+          Chord-Type="m7" Chord-Pos="1"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="16" Begin="97"
+          End="99" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="100"
+          End="100" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="16" Begin="101"
+          End="101" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="20" Strum-Time="16" Begin="102"
+          End="102" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="103"
+          End="103" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="100" Strum-Time="16" Begin="104"
+          End="104" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="105"
+          End="105" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="106"
+          End="106" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="107"
+          End="107" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="108"
+          End="108" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="109"
+          End="110" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="111"
+          End="111" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="50" Strum-Time="16" Begin="112"
+          End="112" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="100" Strum-Time="16" Begin="113"
+          End="113" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="60" Strum-Time="16" Begin="114"
+          End="114" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="100" Strum-Time="16" Begin="115"
+          End="115" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="60" Strum-Time="16" Begin="116"
+          End="116" Articulation="PM" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="1"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="117"
+          End="118" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="80" Strum-Time="16" Begin="119"
+          End="119" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="90" Strum-Time="16" Begin="120"
+          End="121" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="122"
+          End="122" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="70" Strum-Time="16" Begin="123"
+          End="123" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="80" Strum-Time="16" Begin="124"
+          End="124" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Down" Velocity="90" Strum-Time="16" Begin="125"
+          End="125" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+    <Note FX="2" Direction="Up" Velocity="100" Strum-Time="16" Begin="126"
+          End="126" Articulation="Sus" Legato="No Legato" Chord-Root="A"
+          Chord-Type="add9" Chord-Pos="3"/>
+  </Riff>
+  <Tab-Path Value="C:\Users\ample\Documents\Ample Sound\Tabs\Guitar\Welcome to Guitar Tab Player.gpx"/>
+  <Layer ID="1" Value="96"/>
+  <Layer ID="2" Value="64"/>
+  <Layer ID="3" Value="32"/>
+  <Control ID="4" Parameter="M-Pitch Bend"/>
+  <Control ID="6" Parameter="M-Vibrato"/>
+  <Control ID="7" Parameter="M-FA Gain"/>
+  <Control ID="12" Parameter="M-Master Vol"/>
+  <Control ID="15" Parameter="M-Pan"/>
+  <Control ID="69" Parameter="Hold Pedal Tog"/>
+  <Control ID="77" Parameter="M-Res Release"/>
+  <Parameter Name="M-Mic 1 Vol" Value="1" Index="0"/>
+  <Parameter Name="M-Mic 2 Vol" Value="0.5" Index="1"/>
+  <Parameter Name="M-Master Vol" Value="0.75" Index="2"/>
+  <Parameter Name="M-Pan" Value="0" Index="3"/>
+  <Parameter Name="M-Width" Value="50" Index="4"/>
+  <Parameter Name="M-Doubling Wid" Value="15" Index="5"/>
+  <Parameter Name="M-Doubling Tog" Value="1" Index="6"/>
+  <Parameter Name="M-Rel Gain" Value="0.5" Index="7"/>
+  <Parameter Name="M-Fx Gain" Value="1" Index="8"/>
+  <Parameter Name="M-Res Gain" Value="1" Index="9"/>
+  <Parameter Name="M-FA Gain" Value="1" Index="10"/>
+  <Parameter Name="M-FR Gain" Value="1" Index="11"/>
+  <Parameter Name="M-Fret Sound" Value="1" Index="12"/>
+  <Parameter Name="M-Res Release" Value="0.4" Index="13"/>
+  <Parameter Name="M-Capo" Value="0" Index="14"/>
+  <Parameter Name="M-Vibrato" Value="0" Index="16"/>
+  <Parameter Name="S-Strum Toggle" Value="0" Index="17"/>
+  <Parameter Name="S-Strum T Mode" Value="0" Index="18"/>
+  <Parameter Name="S-Strum Time" Value="16" Index="19"/>
+  <Parameter Name="S-ADSR Switch" Value="0" Index="20"/>
+  <Parameter Name="S-Body Response" Value="8" Index="21"/>
+  <Parameter Name="S-Mute Depth" Value="500" Index="22"/>
+  <Parameter Name="S-Stroke Vol" Value="0.9" Index="23"/>
+  <Parameter Name="S-Hum ST All" Value="0" Index="24"/>
+  <Parameter Name="S-Hum ST Each" Value="0" Index="25"/>
+  <Parameter Name="S-Hum Strum Vel" Value="0" Index="26"/>
+  <Parameter Name="S-Chord Mode" Value="0" Index="27"/>
+  <Parameter Name="S-Transpose" Value="4" Index="28"/>
+  <Parameter Name="S-SEQ Sync Tog" Value="1" Index="29"/>
+  <Parameter Name="S-SEQ Swing" Value="0" Index="30"/>
+  <Parameter Name="S-SEQ Quantize" Value="2" Index="31"/>
+  <Parameter Name="S-SEQ Time Sig" Value="2" Index="32"/>
+  <Parameter Name="R-Feedback" Value="1" Index="33"/>
+  <Parameter Name="R-Metronome" Value="1" Index="34"/>
+  <Parameter Name="R-Swing" Value="0" Index="35"/>
+  <Parameter Name="R-Vel Hum" Value="0" Index="36"/>
+  <Parameter Name="R-Vel Prop" Value="9" Index="37"/>
+  <Parameter Name="R-Insert Vel" Value="80" Index="38"/>
+  <Parameter Name="R-Duration" Value="9" Index="39"/>
+  <Parameter Name="R-Sync Toggle" Value="0" Index="40"/>
+  <Parameter Name="R-Time Sig" Value="2" Index="41"/>
+  <Parameter Name="R-Quantize" Value="2" Index="42"/>
+  <Parameter Name="R-Theme" Value="1" Index="43"/>
+  <Parameter Name="R-Score Display" Value="0" Index="44"/>
+  <Parameter Name="R-Metronome Snd" Value="0" Index="45"/>
+  <Parameter Name="R-Metronome Vel" Value="100" Index="46"/>
+  <Parameter Name="R-Dice Numbers" Value="7" Index="47"/>
+  <Parameter Name="R-Dice Key" Value="9" Index="48"/>
+  <Parameter Name="R-Dice Style" Value="0" Index="49"/>
+  <Parameter Name="R-Dice Vel Var" Value="4" Index="50"/>
+  <Parameter Name="R-Dice Record" Value="1" Index="51"/>
+  <Parameter Name="T-Sync Toggle" Value="1" Index="52"/>
+  <Parameter Name="T-Loop Toggle" Value="0" Index="53"/>
+  <Parameter Name="T-Vel Prop" Value="100" Index="54"/>
+  <Parameter Name="T-Vel Hum" Value="0" Index="55"/>
+  <Parameter Name="T-Swing" Value="0" Index="56"/>
+  <Parameter Name="T-Strum T Prop" Value="100" Index="57"/>
+  <Parameter Name="T-Fixed by Strum" Value="0" Index="58"/>
+  <Parameter Name="FX-Bypassed" Value="1" Index="59"/>
+  <Parameter Name="FX-Comp-Toggle" Value="-1" Index="60"/>
+  <Parameter Name="FX-Comp-AttackTime" Value="5" Index="61"/>
+  <Parameter Name="FX-Comp-ReleaseTime" Value="500" Index="62"/>
+  <Parameter Name="FX-Comp-SoftKnee" Value="0" Index="63"/>
+  <Parameter Name="FX-Comp-Thres" Value="-18" Index="64"/>
+  <Parameter Name="FX-Comp-Ratio" Value="2" Index="65"/>
+  <Parameter Name="FX-Comp-RMSDetection" Value="0" Index="66"/>
+  <Parameter Name="FX-Comp-AutoGain" Value="0" Index="67"/>
+  <Parameter Name="FX-Comp-AutoRelease" Value="0" Index="68"/>
+  <Parameter Name="FX-Comp-MakeupGain" Value="0" Index="69"/>
+  <Parameter Name="FX-Comp-CFAttackTime" Value="0.2" Index="70"/>
+  <Parameter Name="FX-Comp-CFReleaseTime" Value="1" Index="71"/>
+  <Parameter Name="FX-EQ-Toggle" Value="1" Index="72"/>
+  <Parameter Name="FX-EQ-MakeupGain" Value="0" Index="73"/>
+  <Parameter Name="FX-EQ-FilterType1" Value="2" Index="74"/>
+  <Parameter Name="FX-EQ-FilterType2" Value="0" Index="75"/>
+  <Parameter Name="FX-EQ-FilterType3" Value="2" Index="76"/>
+  <Parameter Name="FX-EQ-FilterType4" Value="2" Index="77"/>
+  <Parameter Name="FX-EQ-FilterType5" Value="2" Index="78"/>
+  <Parameter Name="FX-EQ-FilterType6" Value="2" Index="79"/>
+  <Parameter Name="FX-EQ-FilterType7" Value="2" Index="80"/>
+  <Parameter Name="FX-EQ-FilterType8" Value="2" Index="81"/>
+  <Parameter Name="FX-EQ-Freq1" Value="260" Index="82"/>
+  <Parameter Name="FX-EQ-Freq2" Value="100" Index="83"/>
+  <Parameter Name="FX-EQ-Freq3" Value="4900" Index="84"/>
+  <Parameter Name="FX-EQ-Freq4" Value="1000" Index="85"/>
+  <Parameter Name="FX-EQ-Freq5" Value="20" Index="86"/>
+  <Parameter Name="FX-EQ-Freq6" Value="20" Index="87"/>
+  <Parameter Name="FX-EQ-Freq7" Value="20" Index="88"/>
+  <Parameter Name="FX-EQ-Freq8" Value="20" Index="89"/>
+  <Parameter Name="FX-EQ-Q1" Value="1" Index="90"/>
+  <Parameter Name="FX-EQ-Q2" Value="1" Index="91"/>
+  <Parameter Name="FX-EQ-Q3" Value="1" Index="92"/>
+  <Parameter Name="FX-EQ-Q4" Value="1" Index="93"/>
+  <Parameter Name="FX-EQ-Q5" Value="1" Index="94"/>
+  <Parameter Name="FX-EQ-Q6" Value="1" Index="95"/>
+  <Parameter Name="FX-EQ-Q7" Value="1" Index="96"/>
+  <Parameter Name="FX-EQ-Q8" Value="1" Index="97"/>
+  <Parameter Name="FX-EQ-Gain1" Value="-3" Index="98"/>
+  <Parameter Name="FX-EQ-Gain2" Value="0" Index="99"/>
+  <Parameter Name="FX-EQ-Gain3" Value="3" Index="100"/>
+  <Parameter Name="FX-EQ-Gain4" Value="-1.5" Index="101"/>
+  <Parameter Name="FX-EQ-Gain5" Value="0" Index="102"/>
+  <Parameter Name="FX-EQ-Gain6" Value="0" Index="103"/>
+  <Parameter Name="FX-EQ-Gain7" Value="0" Index="104"/>
+  <Parameter Name="FX-EQ-Gain8" Value="0" Index="105"/>
+  <Parameter Name="FX-EQ-Order1" Value="2" Index="106"/>
+  <Parameter Name="FX-EQ-Order2" Value="3" Index="107"/>
+  <Parameter Name="FX-EQ-Order3" Value="2" Index="108"/>
+  <Parameter Name="FX-EQ-Order4" Value="2" Index="109"/>
+  <Parameter Name="FX-EQ-Order5" Value="2" Index="110"/>
+  <Parameter Name="FX-EQ-Order6" Value="2" Index="111"/>
+  <Parameter Name="FX-EQ-Order7" Value="2" Index="112"/>
+  <Parameter Name="FX-EQ-Order8" Value="2" Index="113"/>
+  <Parameter Name="FX-EQ-Activated1" Value="1" Index="114"/>
+  <Parameter Name="FX-EQ-Activated2" Value="1" Index="115"/>
+  <Parameter Name="FX-EQ-Activated3" Value="1" Index="116"/>
+  <Parameter Name="FX-EQ-Activated4" Value="1" Index="117"/>
+  <Parameter Name="FX-EQ-Activated5" Value="-1" Index="118"/>
+  <Parameter Name="FX-EQ-Activated6" Value="-1" Index="119"/>
+  <Parameter Name="FX-EQ-Activated7" Value="-1" Index="120"/>
+  <Parameter Name="FX-EQ-Activated8" Value="-1" Index="121"/>
+  <Parameter Name="FX-EQ-Enabled1" Value="1" Index="122"/>
+  <Parameter Name="FX-EQ-Enabled2" Value="1" Index="123"/>
+  <Parameter Name="FX-EQ-Enabled3" Value="1" Index="124"/>
+  <Parameter Name="FX-EQ-Enabled4" Value="1" Index="125"/>
+  <Parameter Name="FX-EQ-Enabled5" Value="-1" Index="126"/>
+  <Parameter Name="FX-EQ-Enabled6" Value="-1" Index="127"/>
+  <Parameter Name="FX-EQ-Enabled7" Value="-1" Index="128"/>
+  <Parameter Name="FX-EQ-Enabled8" Value="-1" Index="129"/>
+  <Parameter Name="FX-Delay-Toggle" Value="-1" Index="130"/>
+  <Parameter Name="FX-Delay-Grid" Value="3" Index="131"/>
+  <Parameter Name="FX-Delay-BPM" Value="56" Index="132"/>
+  <Parameter Name="FX-Delay-BPMSync" Value="-1" Index="133"/>
+  <Parameter Name="FX-Delay-Send" Value="-12" Index="134"/>
+  <Parameter Name="FX-Delay-Send-Reverb" Value="-6" Index="135"/>
+  <Parameter Name="FX-Delay-Activated1" Value="1" Index="136"/>
+  <Parameter Name="FX-Delay-Activated2" Value="1" Index="137"/>
+  <Parameter Name="FX-Delay-Activated3" Value="-1" Index="138"/>
+  <Parameter Name="FX-Delay-Activated4" Value="-1" Index="139"/>
+  <Parameter Name="FX-Delay-Activated5" Value="-1" Index="140"/>
+  <Parameter Name="FX-Delay-Activated6" Value="-1" Index="141"/>
+  <Parameter Name="FX-Delay-Enabled1" Value="1" Index="142"/>
+  <Parameter Name="FX-Delay-Enabled2" Value="1" Index="143"/>
+  <Parameter Name="FX-Delay-Enabled3" Value="-1" Index="144"/>
+  <Parameter Name="FX-Delay-Enabled4" Value="-1" Index="145"/>
+  <Parameter Name="FX-Delay-Enabled5" Value="-1" Index="146"/>
+  <Parameter Name="FX-Delay-Enabled6" Value="-1" Index="147"/>
+  <Parameter Name="FX-Delay-Time1" Value="4" Index="148"/>
+  <Parameter Name="FX-Delay-Time2" Value="2" Index="149"/>
+  <Parameter Name="FX-Delay-Time3" Value="1" Index="150"/>
+  <Parameter Name="FX-Delay-Time4" Value="1" Index="151"/>
+  <Parameter Name="FX-Delay-Time5" Value="1" Index="152"/>
+  <Parameter Name="FX-Delay-Time6" Value="1" Index="153"/>
+  <Parameter Name="FX-Delay-Feedback1" Value="10" Index="154"/>
+  <Parameter Name="FX-Delay-Feedback2" Value="10" Index="155"/>
+  <Parameter Name="FX-Delay-Feedback3" Value="50" Index="156"/>
+  <Parameter Name="FX-Delay-Feedback4" Value="50" Index="157"/>
+  <Parameter Name="FX-Delay-Feedback5" Value="50" Index="158"/>
+  <Parameter Name="FX-Delay-Feedback6" Value="50" Index="159"/>
+  <Parameter Name="FX-Delay-Pan1" Value="-100" Index="160"/>
+  <Parameter Name="FX-Delay-Pan2" Value="100" Index="161"/>
+  <Parameter Name="FX-Delay-Pan3" Value="0" Index="162"/>
+  <Parameter Name="FX-Delay-Pan4" Value="0" Index="163"/>
+  <Parameter Name="FX-Delay-Pan5" Value="0" Index="164"/>
+  <Parameter Name="FX-Delay-Pan6" Value="0" Index="165"/>
+  <Parameter Name="FX-Delay-VolumeGain1" Value="0" Index="166"/>
+  <Parameter Name="FX-Delay-VolumeGain2" Value="0" Index="167"/>
+  <Parameter Name="FX-Delay-VolumeGain3" Value="0" Index="168"/>
+  <Parameter Name="FX-Delay-VolumeGain4" Value="0" Index="169"/>
+  <Parameter Name="FX-Delay-VolumeGain5" Value="0" Index="170"/>
+  <Parameter Name="FX-Delay-VolumeGain6" Value="0" Index="171"/>
+  <Parameter Name="FX-Delay-Highcut-Enabled1" Value="1" Index="172"/>
+  <Parameter Name="FX-Delay-Highcut-Enabled2" Value="1" Index="173"/>
+  <Parameter Name="FX-Delay-HighcutEnabled3" Value="-1" Index="174"/>
+  <Parameter Name="FX-Delay-HighcutEnabled4" Value="-1" Index="175"/>
+  <Parameter Name="FX-Delay-HighcutEnabled5" Value="-1" Index="176"/>
+  <Parameter Name="FX-Delay-HighcutEnabled6" Value="-1" Index="177"/>
+  <Parameter Name="FX-Delay-Lowcut-Enabled1" Value="1" Index="178"/>
+  <Parameter Name="FX-Delay-Lowcut-Enabled2" Value="1" Index="179"/>
+  <Parameter Name="FX-Delay-LowcutEnabled3" Value="-1" Index="180"/>
+  <Parameter Name="FX-Delay-LowcutEnabled4" Value="-1" Index="181"/>
+  <Parameter Name="FX-Delay-LowcutEnabled5" Value="-1" Index="182"/>
+  <Parameter Name="FX-Delay-LowcutEnabled6" Value="-1" Index="183"/>
+  <Parameter Name="FX-Delay-Highcut-Freq1" Value="15000" Index="184"/>
+  <Parameter Name="FX-Delay-Highcut-Freq2" Value="15000" Index="185"/>
+  <Parameter Name="FX-Delay-HighcutFreq3" Value="3000" Index="186"/>
+  <Parameter Name="FX-Delay-HighcutFreq4" Value="3000" Index="187"/>
+  <Parameter Name="FX-Delay-HighcutFreq5" Value="3000" Index="188"/>
+  <Parameter Name="FX-Delay-HighcutFreq6" Value="3000" Index="189"/>
+  <Parameter Name="FX-Delay-Lowcut-Freq1" Value="120" Index="190"/>
+  <Parameter Name="FX-Delay-Lowcut-Freq2" Value="120" Index="191"/>
+  <Parameter Name="FX-Delay-LowcutFreq3" Value="150" Index="192"/>
+  <Parameter Name="FX-Delay-LowcutFreq4" Value="150" Index="193"/>
+  <Parameter Name="FX-Delay-LowcutFreq5" Value="150" Index="194"/>
+  <Parameter Name="FX-Delay-LowcutFreq6" Value="150" Index="195"/>
+  <Parameter Name="FX-Reverb-Toggle" Value="1" Index="196"/>
+  <Parameter Name="FX-Reverb-BassGainEnabled" Value="-1" Index="197"/>
+  <Parameter Name="FX-Reverb-TrebleGainEnabled" Value="-1" Index="198"/>
+  <Parameter Name="FX-Reverb-IRType" Value="2" Index="199"/>
+  <Parameter Name="FX-Reverb-Size" Value="100" Index="200"/>
+  <Parameter Name="FX-Reverb-PreDelay" Value="0" Index="201"/>
+  <Parameter Name="FX-Reverb-BassGain" Value="0" Index="202"/>
+  <Parameter Name="FX-Reverb-TrebleGain" Value="0" Index="203"/>
+  <Parameter Name="FX-Reverb-VolumeGain" Value="0" Index="204"/>
+  <Parameter Name="FX-Reverb-Send" Value="-15" Index="205"/>
+  <Parameter Name="S-Bend Mode" Value="0" Index="206"/>
+  <Parameter Name="Sound Mode" Value="Mono" Index="207"/>
+  <Parameter Name="Str 6 Tuner" Value="0" Index="208"/>
+  <Parameter Name="Str 5 Tuner" Value="0" Index="209"/>
+  <Parameter Name="Str 4 Tuner" Value="0" Index="210"/>
+  <Parameter Name="Str 3 Tuner" Value="0" Index="211"/>
+  <Parameter Name="Str 2 Tuner" Value="0" Index="212"/>
+  <Parameter Name="Str 1 Tuner" Value="0" Index="213"/>
+  <Parameter Name="Open Str First" Value="0" Index="214"/>
+  <Parameter Name="Hold Pedal Tog" Value="0" Index="215"/>
+  <Parameter Name="Play Mode" Value="0" Index="216"/>
+  <Parameter Name="Auto Legato" Value="1" Index="217"/>
+  <Parameter Name="Strok Noise Tog" Value="0" Index="218"/>
+  <Parameter Name="Bend Range" Value="2" Index="219"/>
+  <Parameter Name="Poly Bender Tog" Value="0" Index="220"/>
+  <Parameter Name="S-Mod Pitch Range" Value="50" Index="221"/>
+  <Parameter Name="S-Mod Volume Range" Value="6" Index="222"/>
+  <Parameter Name="S-Mod Time" Value="260" Index="223"/>
+  <Parameter Name="S-Auto Mod Tog" Value="1" Index="224"/>
+  <Parameter Name="Cycle Mode Switch" Value="0" Index="225"/>
+  <Parameter Name="Cycle Plus Tog" Value="0" Index="226"/>
+  <Parameter Name="Pedal Noise Tog" Value="1" Index="227"/>
+  <Parameter Name="M-Capo Logic Switch" Value="1" Index="228"/>
+  <Parameter Name="M-Start Time" Value="0" Index="229"/>
+  <Parameter Name="M-Attack Time" Value="1" Index="230"/>
+  <Parameter Name="M-Decay Time" Value="500" Index="231"/>
+  <Parameter Name="M-Sustain DB" Value="0" Index="232"/>
+  <Parameter Name="M-Release Time" Value="200" Index="233"/>
+  <Parameter Name="Num Host Params" Value="0" Index="234"/>
+  <Parameter Name="S-Chord Root 1" Value="0" Index="235"/>
+  <Parameter Name="S-Chord Root 2" Value="0" Index="236"/>
+  <Parameter Name="S-Chord Root 3" Value="0" Index="237"/>
+  <Parameter Name="S-Chord Root 4" Value="0" Index="238"/>
+  <Parameter Name="S-Chord Root 5" Value="0" Index="239"/>
+  <Parameter Name="S-Chord Root 6" Value="0" Index="240"/>
+  <Parameter Name="S-Chord Root 7" Value="9" Index="241"/>
+  <Parameter Name="S-Chord Root 8" Value="1" Index="242"/>
+  <Parameter Name="S-Chord Root 9" Value="11" Index="243"/>
+  <Parameter Name="S-Chord Root 10" Value="0" Index="244"/>
+  <Parameter Name="S-Chord Root 11" Value="9" Index="245"/>
+  <Parameter Name="S-Chord Root 12" Value="9" Index="246"/>
+  <Parameter Name="S-Chord Root 13" Value="0" Index="247"/>
+  <Parameter Name="S-Chord Root 14" Value="9" Index="248"/>
+  <Parameter Name="S-Chord Root 15" Value="2" Index="249"/>
+  <Parameter Name="S-Chord Root 16" Value="5" Index="250"/>
+  <Parameter Name="S-Chord Root 17" Value="4" Index="251"/>
+  <Parameter Name="S-Chord Root 18" Value="5" Index="252"/>
+  <Parameter Name="S-Chord Root 19" Value="2" Index="253"/>
+  <Parameter Name="S-Chord Root 20" Value="7" Index="254"/>
+  <Parameter Name="S-Chord Root 21" Value="4" Index="255"/>
+  <Parameter Name="S-Chord Root 22" Value="9" Index="256"/>
+  <Parameter Name="S-Chord Root 23" Value="10" Index="257"/>
+  <Parameter Name="S-Chord Root 24" Value="7" Index="258"/>
+  <Parameter Name="S-Dt Chord R" Value="0" Index="259"/>
+  <Parameter Name="S-Chord Type 1" Value="30" Index="260"/>
+  <Parameter Name="S-Chord Type 2" Value="30" Index="261"/>
+  <Parameter Name="S-Chord Type 3" Value="30" Index="262"/>
+  <Parameter Name="S-Chord Type 4" Value="30" Index="263"/>
+  <Parameter Name="S-Chord Type 5" Value="30" Index="264"/>
+  <Parameter Name="S-Chord Type 6" Value="30" Index="265"/>
+  <Parameter Name="S-Chord Type 7" Value="5" Index="266"/>
+  <Parameter Name="S-Chord Type 8" Value="4" Index="267"/>
+  <Parameter Name="S-Chord Type 9" Value="6" Index="268"/>
+  <Parameter Name="S-Chord Type 10" Value="30" Index="269"/>
+  <Parameter Name="S-Chord Type 11" Value="11" Index="270"/>
+  <Parameter Name="S-Chord Type 12" Value="0" Index="271"/>
+  <Parameter Name="S-Chord Type 13" Value="0" Index="272"/>
+  <Parameter Name="S-Chord Type 14" Value="0" Index="273"/>
+  <Parameter Name="S-Chord Type 15" Value="1" Index="274"/>
+  <Parameter Name="S-Chord Type 16" Value="1" Index="275"/>
+  <Parameter Name="S-Chord Type 17" Value="1" Index="276"/>
+  <Parameter Name="S-Chord Type 18" Value="0" Index="277"/>
+  <Parameter Name="S-Chord Type 19" Value="0" Index="278"/>
+  <Parameter Name="S-Chord Type 20" Value="0" Index="279"/>
+  <Parameter Name="S-Chord Type 21" Value="0" Index="280"/>
+  <Parameter Name="S-Chord Type 22" Value="1" Index="281"/>
+  <Parameter Name="S-Chord Type 23" Value="0" Index="282"/>
+  <Parameter Name="S-Chord Type 24" Value="2" Index="283"/>
+  <Parameter Name="S-Dt Chord T" Value="6" Index="284"/>
+  <Parameter Name="S-Chord Pos 1" Value="1" Index="285"/>
+  <Parameter Name="S-Chord Pos 2" Value="1" Index="286"/>
+  <Parameter Name="S-Chord Pos 3" Value="1" Index="287"/>
+  <Parameter Name="S-Chord Pos 4" Value="1" Index="288"/>
+  <Parameter Name="S-Chord Pos 5" Value="1" Index="289"/>
+  <Parameter Name="S-Chord Pos 6" Value="1" Index="290"/>
+  <Parameter Name="S-Chord Pos 7" Value="0" Index="291"/>
+  <Parameter Name="S-Chord Pos 8" Value="0" Index="292"/>
+  <Parameter Name="S-Chord Pos 9" Value="1" Index="293"/>
+  <Parameter Name="S-Chord Pos 10" Value="1" Index="294"/>
+  <Parameter Name="S-Chord Pos 11" Value="2" Index="295"/>
+  <Parameter Name="S-Chord Pos 12" Value="1" Index="296"/>
+  <Parameter Name="S-Chord Pos 13" Value="0" Index="297"/>
+  <Parameter Name="S-Chord Pos 14" Value="0" Index="298"/>
+  <Parameter Name="S-Chord Pos 15" Value="0" Index="299"/>
+  <Parameter Name="S-Chord Pos 16" Value="0" Index="300"/>
+  <Parameter Name="S-Chord Pos 17" Value="0" Index="301"/>
+  <Parameter Name="S-Chord Pos 18" Value="0" Index="302"/>
+  <Parameter Name="S-Chord Pos 19" Value="0" Index="303"/>
+  <Parameter Name="S-Chord Pos 20" Value="0" Index="304"/>
+  <Parameter Name="S-Chord Pos 21" Value="0" Index="305"/>
+  <Parameter Name="S-Chord Pos 22" Value="0" Index="306"/>
+  <Parameter Name="S-Chord Pos 23" Value="0" Index="307"/>
+  <Parameter Name="S-Chord Pos 24" Value="0" Index="308"/>
+  <Parameter Name="S-Dt Chord P" Value="0" Index="309"/>
+  <Parameter Name="S-Dt Chord Bass" Value="12" Index="310"/>
+  <Parameter Name="S-Dt Chord Treble" Value="12" Index="311"/>
+  <Parameter Name="S-Chord Index" Value="7" Index="312"/>
+  <Parameter Name="S-Chord Page" Value="0" Index="313"/>
+  <Parameter Name="S-Pattern Index" Value="0" Index="314"/>
+  <Parameter Name="S-TempoMode" Value="0" Index="315"/>
+  <Parameter Name="S-SEQ Play Tog" Value="0" Index="316"/>
+  <Parameter Name="R-Play Toggle" Value="0" Index="317"/>
+  <Parameter Name="T-Play Toggle" Value="0" Index="318"/>
+  <Parameter Name="T-Playback Toggle" Value="0" Index="319"/>
+  <Parameter Name="T-Track Index" Value="0" Index="320"/>
+  <Parameter Name="Master Tune" Value="440" Index="321"/>
+  <Parameter Name="Max Voices" Value="128" Index="322"/>
+  <Parameter Name="Vel Sensitivity" Value="100" Index="323"/>
+  <Parameter Name="Off Velocity" Value="65" Index="324"/>
+  <Parameter Name="Auto Off Velocity" Value="0" Index="325"/>
+  <Parameter Name="Open String 6" Value="1" Index="326"/>
+  <Parameter Name="Open String 5" Value="1" Index="327"/>
+  <Parameter Name="Open String 4" Value="1" Index="328"/>
+  <Parameter Name="Open String 3" Value="1" Index="329"/>
+  <Parameter Name="Open String 2" Value="1" Index="330"/>
+  <Parameter Name="Open String 1" Value="1" Index="331"/>
+  <Parameter Name="S-Mod Start Time" Value="260" Index="332"/>
+  <Parameter Name="S-Mod Attack Time" Value="750" Index="333"/>
+  <Parameter Name="S-Mod Hold Time" Value="500" Index="334"/>
+  <Parameter Name="S-Mod Decay Time" Value="500" Index="335"/>
+  <Parameter Name="S-Mod Sustain" Value="0" Index="336"/>
+  <DBName Value="AGMSt"/>
+  <Tune-Path Value="C:\Users\ample\Documents\Ample Sound\AGM\Tune\Tune_Default.AGMSt"/>
+  <PresetDirectory PresetDir="C:\Users\ample\Documents\Ample Sound\AGM\Presets"/>
+</AAG_STATE>
